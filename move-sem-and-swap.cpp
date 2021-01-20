@@ -1,9 +1,4 @@
-#include <iostream>
-#include <sstream>
-
 #define SWAP_TRICK
-
-using namespace std;
 
 class Foo
 {
